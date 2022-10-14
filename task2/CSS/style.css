@@ -1,0 +1,30 @@
+* {
+  background-color: grey;
+}
+#header {
+  color: blue;
+}
+subhead {
+  color: blue;
+}
+p span {
+  color: yellow;
+}
+h2 + ul {
+  color: white;
+}
+#subhead {
+  color: blue;
+}
+li span {
+  color: red;
+}
+#second {
+  color: white;
+}
+img {
+  height: 200px;
+}
+#logo {
+  height: 30px;
+}
